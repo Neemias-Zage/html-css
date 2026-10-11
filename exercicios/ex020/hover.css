@@ -1,0 +1,12 @@
+div:hover{
+    color: brown;
+}
+div > p{
+    display:none;
+}
+div:hover> p{
+    display: block;
+    color: blue;
+    background-color: yellow;
+    width: 200px;
+}

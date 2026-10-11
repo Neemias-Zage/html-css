@@ -1,0 +1,14 @@
+body{
+font-family: Arial, sans-serif;
+}
+a{
+    color: #f00707c4;
+    text-decoration:none;
+    font-weight: bold;
+}
+a:visited{
+    color: #000000c4;
+}
+a:hover{
+        text-decoration: underline;
+}

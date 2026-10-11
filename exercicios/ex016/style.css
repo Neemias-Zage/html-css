@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+header{
+    background-image: linear-gradient(to bottom, #198232 12%, #0d0d0e);
+    padding: 20px;
+}
